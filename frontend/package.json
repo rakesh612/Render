@@ -13,7 +13,8 @@
     "axios": "^1.12.2",
     "dotenv": "^17.2.3",
     "react": "^19.2.0",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "render": "file:../backend"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
